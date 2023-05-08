@@ -32,6 +32,13 @@ Mi objetivo actual es seguir evolucionando y mejorando mis habilidades en el des
 - ✉ federiconieto04@gmail.com
 - 🐱 [github.com](https://github.com/Fede-Coder)
  
+ <h2>Stats</h2>
+ 
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fede-Coder&theme=tokyonight)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fede-Coder&theme=tokyonight)
+
+ [![Stats](https://github-readme-stats.vercel.app/api?username=Fede-Coder&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=Fede-Coder&show_icons=true&theme=tokyonight)
+ 
+  
  #  
 #### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=Javascript&logoColor=%23F7DF1E) 
@@ -58,10 +65,3 @@ Mi objetivo actual es seguir evolucionando y mejorando mis habilidades en el des
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-
- 
- <h2>Stats</h2>
- 
- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fede-Coder&theme=tokyonight)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fede-Coder&theme=tokyonight)
-
- [![Stats](https://github-readme-stats.vercel.app/api?username=Fede-Coder&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=Fede-Coder&show_icons=true&theme=tokyonight)
