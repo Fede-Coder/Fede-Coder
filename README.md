@@ -57,6 +57,7 @@ Mi objetivo actual es seguir evolucionando y mejorando mis habilidades en el des
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-black?logo=phpstorm)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
