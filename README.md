@@ -14,7 +14,7 @@ Mi objetivo actual es seguir evolucionando y mejorando mis habilidades en el des
 - [x] Lenguajes ➤ JavaScript, HTML5, CSS3, SQL, C#.
 - [x] Frontend ➤ React, Redux, Styled-Component, CSS Modules.
 - [x] Backend ➤ NodeJS, ExpressJS, Sequelize
-- [x] Base de Datos ➤ MySQL/MariaDB, PostgreSQL, SQLite, SQLServer.
+- [x] Base de Datos ➤ MySQL/MariaDB, PostgreSQL, SQLServer.
 - [x] Control de Versiones ➤ Git, GitHub.
 - [x] Diseño ➤ Material UI, UI/UX Developer.
 - [x] SO ➤ Windows, Debian, Ubuntu.
